@@ -1,3 +1,5 @@
+# Digital-Clock- Public
+2019 | Web development
 
 # HTML, CSS, JS - 디지털 시계 만들기 (시간, 알람, 타이머 기능)
 
